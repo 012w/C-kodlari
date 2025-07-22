@@ -1,2 +1,2 @@
 # C-kodlari
-// belli basli C kodlari
+// belli başlı C kodları
