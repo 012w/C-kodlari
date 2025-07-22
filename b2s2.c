@@ -1,4 +1,4 @@
-// kullanıcıdan 5 adet ondalıklı sayı alıp ardından ortalmasını alan kod
+// kullanıcıdan 5 adet ondalıklı sayı alıp ardından ortalmasını alan kod.
 
 #include <stdio.h>
 #include <stdlib.h>
