@@ -1,2 +1,5 @@
 # C-kodlari
-// belli başlı C kodları
+C ile programlama 
+Başlangıçtan İleri Seviyeye 
+
+Kitabında bulunan bölüm sonlarında ki problemlerin çözümleri
