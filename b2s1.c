@@ -1,4 +1,4 @@
-// kullanıcının adını, soyadını, öğrenci numarasını ve ortalmasını alan, ardından bu girdileri ekranda çıktı veren uyuglama. 
+// kullanıcının adını, soyadını, öğrenci numarasını ve ortalmasını alan, ardından bu girdileri ekranda çıktı veren kod. 
 
 #include <stdio.h>
 #include <stdlib.h>
